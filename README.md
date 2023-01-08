@@ -10,7 +10,9 @@ Classes Implemented Uptil Now:
 
 ## Loitering Detection
 <p align="center"><img src="Images/Loitering.jpg"\></p>
+
 ## Scene Change Detection
 <p align="center"><img src="Images/Scene_Change.jpg"\></p>
+
 ## Lens Covered Detection
 <p align="center"><img src="Images/Lens_Covered.jpg"\></p>
